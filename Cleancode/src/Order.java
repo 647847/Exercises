@@ -4,7 +4,9 @@ public class Order {
 	String book_name;
 	int quantity;
 	
-	public void make_order() {
+	public void make_order(int order_id,
+	String book_name,
+	int quantity) {
 		System.out.println("Making order......");
 	}
 	public void view_previous_order() {

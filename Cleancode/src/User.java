@@ -4,7 +4,9 @@ public class User {
 	String user_name;
 	int age;
 	
-	public void register(){
+	public void register(int user_id,
+	String user_name,
+	int age){
 		System.out.println("Registering..........");
 	}
 	public void add_to_cart() {

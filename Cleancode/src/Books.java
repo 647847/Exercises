@@ -5,7 +5,10 @@ public class Books {
 	String author_name;
 	int cost;
 	
-	public void view() {
+	public void view(int bookid,
+	String bookname,
+	String author_name,
+	int cost) {
 		System.out.println("Viewing the books...");
 	}
 	public void download() {

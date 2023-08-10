@@ -2,7 +2,7 @@
 public class Cart {
 	int bookid;
 	
-	public void add_remove() {
+	public void add_remove(int bookid) {
 		System.out.println("Adding or removing ............");
 	}
 	public void select_books() {
