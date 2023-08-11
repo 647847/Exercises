@@ -11,11 +11,8 @@ public class BufferDemo {
 			String desc="Cannot be resolved";
 			FileOutputStream fs=new FileOutputStream("C:\\Users\\e019816\\Documents\\IOFiles//bufferinfo.txt");
 			BufferedOutputStream bf=new BufferedOutputStream(fs);
-			System.out.println("Developer name:");
 			bf.write(name.getBytes());
-			System.out.println("bug number:");
-			bf.write(bugno.getBytes());
-			System.out.println("bug description:");
+		    bf.write(bugno.getBytes());
 			bf.write(desc.getBytes());
 			bf.flush();
 			bf.close();
