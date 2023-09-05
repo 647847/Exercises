@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="books.css"?>
+<Books>
+     <BookDetails>
+    <Book>
+        <BookId>1</BookId>
+        <BookName>One fine day</BookName>
+        <Author>Samuel P</Author>
+        <Publisher>Blue Bird</Publisher>
+    </Book>
+    <Book>
+        <BookId>2</BookId>
+        <BookName>It's a rainy day</BookName>
+        <Author>Erric S</Author>
+        <Publisher>Penguins</Publisher>
+    </Book>
+</BookDetails>
+</Books>

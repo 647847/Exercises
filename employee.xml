@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<Employee>
+     <EmployeeDetails id="1">
+	   <EmployeeName>Peter</EmployeeName>
+	   <Department>Sales</Department>
+	   <Salary>89000</Salary>
+     </EmployeeDetails>
+     <EmployeeDetails id="2">
+	   <EmployeeName>Erric</EmployeeName>
+	   <Department>Training</Department>
+	   <Salary>80000</Salary>
+     </EmployeeDetails>
+     <EmployeeDetails id="3">
+	   <EmployeeName>John</EmployeeName>
+	   <Department>78000</Department>
+	   <Salary></Salary>
+     </EmployeeDetails>
+</Employee>
