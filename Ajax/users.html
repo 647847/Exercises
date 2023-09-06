@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="itemstyle.css">
+    <title>XML AJAX Example</title>
+</head>
+<body>
+    <label>Enter user id</label>
+    <input type="text" id="userid" /><br/>
+    <label>Enter user Name</label>
+    <input type="text" id="username" /><br/>
+    <label>Enter email</label>
+    <input type="text" id="emailid" /><br/>
+    <label>Enter address</label>
+    <input type="text" id="address" /><br/>
+    <label>Enter prefferded payment mode</label>
+    <input type="text" id="prefferedpaymentmode" /><br/>
+    <label>Enter mobile</label>
+    <input type="text" id="mobile" /><br/>
+
+    <button onclick="savedata()">Save user details</button>
+    
+    <button onclick="loadData()">Get User Details</button>
+    <div id="items" class="myitems"></div>
+    <script src="userdata.js"></script>
+</body>
+</html>

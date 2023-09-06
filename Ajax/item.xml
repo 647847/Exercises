@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<item>
+<itemdetails>
+<itemname>coffee</itemname>
+<price>56</price>
+<quantity>2</quantity>
+</itemdetails>
+<itemdetails>
+<itemname>tea</itemname>
+<price>89</price>
+<quantity>3</quantity>
+</itemdetails>
+<itemdetails>
+<itemname>Ice tea</itemname>
+<price>45</price>
+<quantity>3</quantity>
+</itemdetails>
+</item>
+
